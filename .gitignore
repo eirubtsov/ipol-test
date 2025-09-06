@@ -1,4 +1,9 @@
-/bitrix
+/bitrix/*
+!/bitrix/modules/
+/bitrix/modules/*
+!/bitrix/modules/ipol.demo/
+!/bitrix/modules/ipol.demo/**
+
 /upload
 !/local/php_interface/migrations
 !/local/php_interface/migrations/*

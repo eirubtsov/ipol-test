@@ -1,0 +1,8 @@
+<?php
+namespace Ipol\Demo\Api\Client;
+
+interface ClientInterface
+{
+    public function get($args = array());
+    public function post($args = array());
+}

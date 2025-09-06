@@ -1,0 +1,1 @@
+<?php require_once $_SERVER['DOCUMENT_ROOT'].'/bitrix/modules/ipol.demo/admin/ipol_demo_orders.php';?>
